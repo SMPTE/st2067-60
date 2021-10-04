@@ -1,5 +1,5 @@
 # ST 2067-60
-Public CD of SMPTE ST 2067-60
+This second Committee Draft of SMPTE ST 2067-60 is available for a public review period ending no earlier than April 1st, 2022, and no later than October 1st, 2022.
 
 [GitHub issues](https://github.com/SMPTE/st2067-60/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@smpte.org.
 
