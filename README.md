@@ -1,21 +1,15 @@
 # ST 2067-60
-This second Committee Draft of SMPTE ST 2067-60 is available for a public review period ending no earlier than April 1st, 2022, and no later than October 1st, 2022.
+
+<!-- PCD-INFO:START -->
+This second Committee Draft of SMPTE ST 2067-60 is available for a public review period ending no earlier than 2022-04-01, and no later than 2022-10-01.
+<!-- PCD-INFO:END -->
 
 [GitHub issues](https://github.com/SMPTE/st2067-60/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@smpte.org.
 
-This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
+## Notices
 
-Please be aware that all contributions to this material are being conducted in accordance with the SMPTE
-Standards Operations Manual, which is accessible on the SMPTE website with the Society Bylaws:
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md) and [PATENTS.md](./PATENTS.md) for
+important notices.
 
-https://www.smpte.org/about/policies-and-governance
-
-Your comments and contributions, whether as a member or guest, are governed by these provisions and
-any comment or contribution made by you indicates your acknowledgement that you understand and are
-complying with the full form of the Operations Manual. Please take careful note of the sections requiring
-contributors to inform the Committee of personal knowledge of any claims under any issued patent or any
-patent application that likely would be infringed by an implementation of this material. This general
-reminder is not a substitute for a contributor’s responsibility to fully read, understand, and comply with the
-full Standards Operations Manual.
-
-Please see PatentNotice.md and CopyrightNotice.md for important intellectual property information.
+Unless specified otherwise, the contents of this repository are licensed as
+indicated at [LICENSE.md](./LICENSE.md).
