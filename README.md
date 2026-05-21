@@ -1,5 +1,7 @@
 # ST 2067-60
 
+_This repository is public._
+
 <!-- PCD-INFO:START -->
 This second Committee Draft of SMPTE ST 2067-60 is available for a public review period ending no earlier than 2022-04-01, and no later than 2022-10-01.
 <!-- PCD-INFO:END -->
